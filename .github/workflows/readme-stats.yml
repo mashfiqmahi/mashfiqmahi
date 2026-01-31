@@ -1,0 +1,26 @@
+name: Build README stats images
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 4 * * *"  # daily
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download GitHub stats SVG
+        run: |
+          mkdir -p assets
+          curl -L "https://github-readme-stats.vercel.app/api?username=mashfiqmahi&show_icons=true" -o assets/stats.svg
+          curl -L "https://github-readme-stats.vercel.app/api/top-langs/?username=mashfiqmahi&layout=compact" -o assets/top-langs.svg
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add assets/*.svg
+          git commit -m "Update README stats" || exit 0
+          git push
