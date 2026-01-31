@@ -22,8 +22,8 @@ I build practical scripts that save time (scrapers, bots, automation) and turn m
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mashfiqmahi&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mashfiqmahi&layout=compact)
+![GitHub Stats](./assets/stats.svg)
+![Top Langs](./assets/top-langs.svg)
 
 ---
 
