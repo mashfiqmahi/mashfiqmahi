@@ -8,16 +8,14 @@ I build practical scripts that save time (scrapers, bots, automation) and turn m
 ## 🚀 Featured Projects
 - **python-projects** — Automation scripts & mini tools (Python)
 - **data-science-practice** — EDA + notebooks (Pandas/NumPy/Matplotlib)
-- **tic_tac_toe_react** — React mini-project (Frontend practice)
+- **edulearn** — React/django mini-project (Frontend practice)
 - **Android-App** — Kotlin app work
-
-> Tip: Replace these with your best 3–6 repos and add 1 line each about *what problem it solves*.
 
 ---
 
 ## 🧰 Tech Stack
 **Languages:** Python, JavaScript, Kotlin, C/C++  
-**Data:** Pandas, NumPy, Matplotlib (add Scikit-learn if you use it)  
+**Data:** Pandas, NumPy, Matplotlib, Scikit-learn  
 **Web:** HTML, CSS, React  
 **Tools:** Git, GitHub, VS Code
 
@@ -30,9 +28,9 @@ I build practical scripts that save time (scrapers, bots, automation) and turn m
 ---
 
 ## 🤝 Let’s Connect
-- Fiverr / Upwork: (add your links)
-- LinkedIn: (add your link)
-- Email: (optional)
+- Fiverr / Upwork: https://www.fiverr.com/mashfiqmahi
+- LinkedIn: [(add your link)](https://www.linkedin.com/in/mashfiqmahi/)
+- Email: kazimashfiqju@gmail.com
 
 ---
 
