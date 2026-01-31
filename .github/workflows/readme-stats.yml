@@ -1,5 +1,6 @@
 name: Build README stats images
-
+permissions:
+  contents: write
 on:
   workflow_dispatch:
   schedule:
