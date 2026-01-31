@@ -22,8 +22,10 @@ I build practical scripts that save time (scrapers, bots, automation) and turn m
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](./assets/stats.svg)
-![Top Langs](./assets/top-langs.svg)
+
+![GitHub Stats](https://raw.githubusercontent.com/mashfiqmahi/mashfiqmahi/main/assets/stats.svg)
+![Top Langs](https://raw.githubusercontent.com/mashfiqmahi/mashfiqmahi/main/assets/top-langs.svg)
+
 
 
 ---
