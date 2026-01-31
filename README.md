@@ -21,12 +21,6 @@ I build practical scripts that save time (scrapers, bots, automation) and turn m
 
 ---
 
-## 📊 GitHub Stats
-![](./profile-summary/profile-details.svg)
-![](./profile-summary/repos-per-language.svg)
-![](./profile-summary/most-commit-language.svg)
-![](./profile-summary/stats.svg)
-![](./profile-summary/productive-time.svg)
 
 
 
