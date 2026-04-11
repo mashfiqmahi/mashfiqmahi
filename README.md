@@ -28,8 +28,9 @@ I build practical scripts that save time (scrapers, bots, automation) and turn m
 ---
 
 ## 🤝 Let’s Connect
-- Fiverr / Upwork: https://www.fiverr.com/mashfiqmahi
-- LinkedIn: [(add your link)](https://www.linkedin.com/in/mashfiqmahi/)
+- Fiverr: https://www.fiverr.com/mashfiqmahi
+- Upwork: https://www.upwork.com/freelancers/~010a4fab9548fff631?s=1017484851352698959 
+- LinkedIn: https://www.linkedin.com/in/mashfiqmahi/
 - Email: kazimashfiqju@gmail.com
 
 ---
