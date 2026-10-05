@@ -160,7 +160,7 @@
           data-testid="lang-progress"
           x="187.94"
           y="0"
-          width="36.55"
+          width="36.54"
           height="8"
           fill="#555555"
         />
@@ -168,7 +168,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="224.49"
+          x="224.48"
           y="0"
           width="17.73"
           height="8"
@@ -178,7 +178,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="242.22"
+          x="242.20999999999998"
           y="0"
           width="17.79"
           height="8"
